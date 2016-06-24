@@ -1,0 +1,2 @@
+module PiedpiperHelper
+end
